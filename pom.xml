@@ -84,9 +84,15 @@
 	</distributionManagement>
 
 	<scm>
+<<<<<<< HEAD
 		<connection>scm:git:git@github.com:AlekseyH/academyproject.git</connection>
 		<developerConnection>scm:git:git@github.com:AlekseyH/academyproject.git</developerConnection>
 		<url>scm:git:git@github.com:AlekseyH/academyproject.git</url>
+=======
+		<connection>scm:git@github.com:AlekseyH/academyproject.git</connection>
+		<developerConnection>scm:git@github.com:AlekseyH/academyproject.git</developerConnection>
+		<url>scm:git@github.com:AlekseyH/academyproject.git</url>
+>>>>>>> 0d033803a0b240f6dce5903c7bf1e752db6c660c
 	</scm>
 	
 	<build>
